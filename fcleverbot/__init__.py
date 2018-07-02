@@ -1,2 +1,2 @@
 name = "FCleverbot"
-from .FCleverbot import *
+from FCleverbot import *
